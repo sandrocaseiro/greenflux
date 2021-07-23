@@ -1,0 +1,8 @@
+﻿Greenflux/.vs
+Greenflux/bin
+Greenflux/obj
+Greenflux/TestResults
+Greenflux/Greenflux.csproj.user
+Greenflux.Tests/bin
+Greenflux.Tests/obj
+*.user
